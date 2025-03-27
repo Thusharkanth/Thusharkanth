@@ -4,9 +4,11 @@
 
 ## PROFILE SUMMARY
 AI & Data Science Undergraduate  
-📧 thusharkanth2002@gmail.com | 📞 (+94) 77 495 4546  
-🏠 Coop stores, Narangala Estate, Narangala  
-[GitHub](https://github.com/Thusharkanth) | [LinkedIn](https://www.linkedin.com/in/loganathan-thusharkanth)  
+📧 thusharkanth2002@gmail.com 
+📞 (+94) 77 495 4546  
+🏠 Co-op stores, Narangala Estate, Narangala  
+[GitHub](https://github.com/Thusharkanth) 
+[LinkedIn](https://www.linkedin.com/in/loganathan-thusharkanth)  
 
 A passionate AI and Data Science undergraduate with strong skills in problem-solving, machine learning, and teamwork. Experienced in leading academic projects in database management, web technologies, JavaFX, Python, and ongoing data science initiatives. My commitment to learning and project success makes me a valuable asset to any team.
 
